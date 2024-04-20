@@ -1,0 +1,79 @@
+Question: What courses are offered for the computer science degree for the school year 2023-2024?
+
+    Answer: The university offers a four-year computer science degree program with two semesters per year, each offering different courses.
+
+Question: What major courses can first-semester first-year students take?
+
+    Answer: First-semester first-year students can take Introduction to Computer Science (INTRCS1), Program Logic Formulation (PLFORM1), and Mathematics in the Modern World (MATHMW1).
+
+Question: What minor courses are available for first-semester first-year students?
+
+    Answer: First-semester first-year students can take Understanding the Self (THSELF1), Readings in Philippine History (RPHIST), Purposive Communication (PRPCOM1), National Service Training Program 1 (NSTPRO1), Movement Competency Training (PATHFT1), Cordillera: History and Socio-Cultural Heritage (HCORDI1), and Social Orientation (SOCORN2).
+
+Question: How many semesters are there in a year for the computer science degree program?
+
+    Answer: There are two semesters per year for the computer science degree program.
+
+Question: What is the duration of the computer science degree program?
+
+    Answer: The computer science degree program is a four-year program.
+
+Question: Are there any prerequisites for the major courses in the first semester?
+
+    Answer: No prerequisites are mentioned for the major courses in the first semester.
+
+Question: Can first-semester first-year students take both major and minor courses?
+
+    Answer: Yes, first-semester first-year students can take both major and minor courses.
+
+Question: Are there any restrictions on the number of courses first-semester first-year students can take?
+
+    Answer: There are no restrictions mentioned on the number of courses first-semester first-year students can take.
+
+Question: Are there any specific requirements for enrollment in the computer science degree program?
+
+    Answer: Specific requirements for enrollment may vary. It is recommended to check with the university's admission office for details.
+
+Question: Are there any specific requirements for enrollment in the minor courses?
+
+    Answer: There are no specific requirements mentioned for enrollment in the minor courses.
+
+Question: Can students take additional courses outside of the specified major and minor courses?
+
+    Answer: Additional courses may be available. It is recommended to check the course catalog for more information.
+
+Question: What major courses can second-semester first-year students take?
+
+    Answer: Second-semester first-year students can take Networks and Communications (SITNET1), Computer Programming (PROGIT1), Human-Computer Interaction (HUMCOM1), Discrete Structures 1 (DITRUC1), and Operating Systems (OPSYST1).
+
+Question: What minor courses are available for second-semester first-year students?
+
+    Answer: Second-semester first-year students can take Science, Technology, and Society (SCITES1), The Contemporary World (CWORLD1), National Service Training Program 2 (NSTPRO2), and Exercise-based Fitness Activities (PATHFT2).
+
+Question: Are there any prerequisites for the major courses in the second semester?
+
+    Answer: Yes, there are prerequisites for some major courses in the second semester. For example, to take Networks and Communications (SITNET1), students must first complete Introduction to Computer Science (INTRCS1).
+
+Question: Can second-semester first-year students take both major and minor courses?
+
+    Answer: Yes, second-semester first-year students can take both major and minor courses.
+
+Question: Are there any restrictions on the number of courses second-semester first-year students can take?
+
+    Answer: There are no restrictions mentioned on the number of courses second-semester first-year students can take.
+
+Question: How do second-semester first-year students know if they have met the prerequisites for a course?
+
+    Answer: Second-semester first-year students can check the course catalog or consult with their academic advisor to determine if they have met the prerequisites for a course.
+
+Question: Can second-semester first-year students change their course schedule after enrolling?
+
+    Answer: Yes, second-semester first-year students can make changes to their course schedule during the add/drop period, but changes may be limited after that.
+
+Question: Are there any specific requirements for enrollment in the second-semester courses?
+
+    Answer: Specific requirements for enrollment may vary. It is recommended to check with the university's admission office for details.
+
+Question: Can students take additional courses outside of the specified major and minor courses in the second semester?
+
+    Answer: Additional courses may be available. It is recommended to check the course catalog for more information.
